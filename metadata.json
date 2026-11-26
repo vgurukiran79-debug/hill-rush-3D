@@ -1,0 +1,6 @@
+{
+  "name": "HILL RUSH 3D",
+  "description": "Playable 3D arcade hill-climbing monster truck racing game with custom suspension physics, endless alpine terrain, nitro VFX, and garage upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
